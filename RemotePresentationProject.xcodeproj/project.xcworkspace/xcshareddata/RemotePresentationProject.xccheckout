@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2EB4F382-E4CE-4353-9B87-C2639DEB7BE1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RemotePresentationProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6B0AAF2C14F37734D9905C78447B84D8E7D1F26C</key>
+		<string>https://github.com/lawfulks/RemotePresentationProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RemotePresentationProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6B0AAF2C14F37734D9905C78447B84D8E7D1F26C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lawfulks/RemotePresentationProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6B0AAF2C14F37734D9905C78447B84D8E7D1F26C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6B0AAF2C14F37734D9905C78447B84D8E7D1F26C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RemotePresentationProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
